@@ -90,6 +90,12 @@ Não é estudo de viabilidade, parecer jurídico, análise registral, laudo téc
 
 **Thaynara Peixoto Guimarães** é arquiteta e urbanista, gerente de projetos e pesquisadora de cidades. Sua trajetória integra desenvolvimento imobiliário, gestão de empreendimentos, parcelamento do solo e inteligência territorial.
 
+## Declaração de interesse
+
+A autora atua profissionalmente no setor que este material analisa. O método nasceu dessa prática, e quem lê tem o direito de saber disso ao avaliar o que está escrito aqui.
+
+Este repositório não promove empresa, produto, terreno ou negócio; não utiliza dado, documento ou caso oriundo de trabalho profissional; e não recomenda compra, venda ou investimento. Todos os exemplos são fictícios e estão declarados como tais.
+
 ## Licença
 
 Conteúdo sob CC BY-NC 4.0. Ver [LICENCA.md](LICENCA.md). Contribuições em [CONTRIBUTING.md](CONTRIBUTING.md). Histórico em [CHANGELOG.md](CHANGELOG.md).

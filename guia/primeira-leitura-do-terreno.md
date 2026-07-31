@@ -782,6 +782,14 @@ Ele defende que:
 
 ---
 
+# Declaração de interesse
+
+A autora atua profissionalmente no setor que este material analisa. O método nasceu dessa prática, e quem lê tem o direito de saber disso ao avaliar o que está escrito aqui.
+
+Este guia não promove empresa, produto, terreno ou negócio; não utiliza dado, documento ou caso oriundo de trabalho profissional; e não recomenda compra, venda ou investimento. Todos os exemplos são fictícios e estão declarados como tais.
+
+---
+
 # Nota de uso
 
 Este material possui finalidade educacional e apresenta um protocolo de organização preliminar. A aplicação deve respeitar a legislação, as atribuições profissionais, as condições específicas do local e a necessidade de consultas e estudos especializados.
