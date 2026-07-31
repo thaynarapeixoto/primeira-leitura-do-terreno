@@ -32,8 +32,15 @@ Este material entrega o método para desfazer isso, e as duas peças mínimas pa
 | [Fontes públicas brasileiras](fontes/fontes-publicas-brasil.md) | ponto de partida por categoria, com a hierarquia de evidência |
 | [Exemplo fictício](exemplo/exemplo-ficticio.md) | o método aplicado do início ao fim em um caso inventado |
 | [Prompts iniciais](anexos/prompts-iniciais.md) | anexo instrumental, IA como apoio e nunca como fonte |
+| [Referências e atribuição](guia/primeira-leitura-do-terreno.md#referências-e-atribuição) | de quem é cada ideia, e o que é construção deste projeto |
 | [Limitações e uso responsável](LIMITACOES.md) | o que este material não faz |
 | [Segurança e dados sensíveis](SECURITY.md) | o que nunca deve ser publicado ou enviado a uma IA |
+
+## Atribuição
+
+O guia marca, no ponto em que a ideia é usada, de quem ela é. As referências centrais são **Flávio Villaça** (1998), sobre a produção social do valor de localização, **Jane Jacobs** (1961), **Jan Gehl** (2010), **Kevin Lynch** (1960) e **Philippe Panerai** (2006), além da legislação federal aplicável a cada dimensão. A lista completa, e a declaração do que é construção deste projeto, está em [Referências e atribuição](guia/primeira-leitura-do-terreno.md#referências-e-atribuição).
+
+Um material que pede rastreabilidade ao leitor precisa praticá-la.
 
 ## Os dois princípios de uso obrigatório
 

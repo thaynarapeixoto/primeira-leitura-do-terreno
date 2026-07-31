@@ -51,6 +51,14 @@ Ao final, você será capaz de:
 
 > **Este guia não substitui estudo de viabilidade, parecer jurídico, levantamento topográfico, análise ambiental, sondagem, avaliação imobiliária, consulta oficial ou responsabilidade técnica.**
 
+## Como ler as atribuições
+
+Ao longo do texto, blocos marcados como **De onde vem** nomeiam quem formulou a ideia usada naquele ponto, e a legislação que incide sobre ele. A atribuição fica onde a ideia é usada, e não só numa lista no fim.
+
+O que não carrega essa marca é construção deste projeto, e está declarado em [Referências e atribuição](#referências-e-atribuição), ao final.
+
+Essa separação é o mesmo princípio que o guia inteiro defende: distinguir o que veio de onde. Um método que exige rastreabilidade do leitor e não pratica a própria rastreabilidade não se sustenta.
+
 ---
 
 # 1. O que é uma primeira leitura
@@ -102,7 +110,12 @@ A cidade não é a soma neutra de lotes independentes. Decisões tomadas em uma 
 
 Por isso, um empreendimento pode estar correto dentro de sua matrícula e ainda produzir um resultado ruim quando repetido no território. Projetar apenas pelo lote pode transferir o custo da decisão para a rua, para o bairro e para a cidade.
 
+> **De onde vem.** A leitura da cidade como sistema de interdependências, em que a vida da rua depende de decisões tomadas lote a lote, é de **Jane Jacobs**, *Morte e vida de grandes cidades* (1961). A relação entre térreo, muro, fachada cega e experiência de quem caminha é o campo de **Jan Gehl**, *Cidades para pessoas* (2010). Nenhuma das duas formulações nasceu aqui.
+
 Essa leitura não é contrária ao desenvolvimento imobiliário. Ao contrário: parte da ideia de que o capital privado participa da produção da cidade e, por isso, pode criar valor econômico ao mesmo tempo em que preserva ou amplia valor urbano, ambiental e coletivo.
+
+> **De onde vem.** A tese de que o valor de uma localização é produzido socialmente, e não pelo terreno em si, é de **Flávio Villaça**, *Espaço intra-urbano no Brasil* (1998), que mostra como a produção e o consumo das localizações intraurbanas foram controlados ao longo de mais de um século nas metrópoles brasileiras. É a referência brasileira central deste guia.
+> No plano legal, o mesmo princípio aparece no **Estatuto da Cidade**, Lei 10.257/2001, art. 2º, que estabelece como diretriz a justa distribuição dos benefícios e ônus do processo de urbanização.
 
 Por isso, a leitura atravessa escalas:
 
@@ -113,6 +126,9 @@ Por isso, a leitura atravessa escalas:
 | **Bairro** | Quais serviços, equipamentos, usos e transformações influenciam o terreno? |
 | **Cidade** | Qual é a posição do terreno nas centralidades e nos vetores urbanos? |
 | **Região** | Quais conexões metropolitanas, ambientais e econômicas ampliam a leitura? |
+
+> **De onde vem.** Ler a cidade por níveis encaixados, do parcelário ao tecido, é o método da análise urbana de **Philippe Panerai**, *Análise urbana* (ed. bras. Editora UnB, 2006). A leitura do território pelos elementos que o tornam legível, via, limite, bairro, nó e marco, é de **Kevin Lynch**, *A imagem da cidade* (1960).
+> **O que é deste projeto:** o recorte específico destas cinco escalas, a pergunta de controle atribuída a cada uma, e o modo gleba como condição do imóvel e não como escala.
 
 ## Modo gleba
 
@@ -333,6 +349,8 @@ Escreva uma frase:
 
 Pode exigir cartório, prefeitura, advogado imobiliário, topógrafo ou profissional habilitado, conforme a divergência encontrada.
 
+> **De onde vem.** A matrícula, o princípio da continuidade registral e a publicidade do registro estão na **Lei de Registros Públicos**, Lei 6.015/1973. Regularização fundiária urbana e legitimação de posse estão na **Lei 13.465/2017**. Este guia não interpreta nenhuma das duas: ele indica onde a pergunta precisa ser feita e por quem.
+
 ---
 
 ## Dimensão 3 · Condições físicas
@@ -403,6 +421,9 @@ Para cada parâmetro, anote: norma, artigo ou anexo, data, vigência a confirmar
 
 **Nota de realidade.** Em boa parte dos municípios brasileiros, a fonte oficial não está onde deveria: falta anexo, o mapa não conversa com o texto, a versão publicada não é a vigente. Isso não autoriza usar fonte secundária como C. Autoriza registrar P com o caminho de consulta formal ao lado.
 
+> **De onde vem.** O Plano Diretor, os instrumentos urbanísticos e as diretrizes da política urbana estão no **Estatuto da Cidade**, Lei 10.257/2001, que regulamenta os arts. 182 e 183 da Constituição. O parcelamento do solo urbano, loteamento e desmembramento, está na **Lei 6.766/1979**.
+> **A regra que manda é sempre a municipal.** As leis federais fixam o quadro; zoneamento, coeficiente, recuo, gabarito e uso são definidos por lei do município, e é ela que precisa ser localizada, datada e conferida.
+
 ---
 
 ## Dimensão 5 · Ambiente · **crítica**
@@ -431,6 +452,9 @@ Para cada parâmetro, anote: norma, artigo ou anexo, data, vigência a confirmar
 **Limite**
 
 Mapas públicos funcionam como triagem. A incidência e a solução devem ser confirmadas na escala e pelo órgão ou especialista adequado. Esta dimensão tem cadeia própria de validação, que corre em paralelo e não depende do andamento urbanístico.
+
+> **De onde vem.** Área de preservação permanente e reserva legal estão no **Código Florestal**, Lei 12.651/2012. As unidades de conservação e suas zonas de amortecimento estão no **SNUC**, Lei 9.985/2000. O licenciamento ambiental tem base na **Política Nacional do Meio Ambiente**, Lei 6.938/1981, e critérios de competência e etapas na **Resolução CONAMA 237/1997**.
+> **Legislação estadual e municipal pode ser mais restritiva que a federal**, e é ela que costuma decidir o caso concreto.
 
 ---
 
@@ -479,6 +503,8 @@ A pergunta comum é "passa na rua?". A pergunta correta é **existe capacidade e
 **Limite**
 
 A primeira leitura identifica dependências. Não dimensiona rede, não orça extensão e não negocia atendimento.
+
+> **De onde vem.** As diretrizes nacionais do saneamento básico, água, esgoto, drenagem e resíduos, estão na **Lei 11.445/2007**, alterada pelo novo marco do saneamento, **Lei 14.026/2020**. Quem confirma a viabilidade de atendimento de um imóvel é sempre a prestadora do serviço, e a resposta dela é documento.
 
 ---
 
@@ -772,7 +798,63 @@ Ele defende que:
 - reconhecer que um terreno deve ser reformulado ou suspenso também é produzir valor;
 - uma boa análise não elimina a incerteza, mas deixa claro onde ela está e como deve ser enfrentada.
 
+> **De onde vem.** Duas destas posições não são originais e é importante dizer de quem são. A de que o valor de uma localização é produzido coletivamente vem de **Flávio Villaça** (1998). A de que localização é a combinação entre acessibilidade, entorno e experiência cotidiana, e não um ponto no mapa, é sustentada por Villaça e por **Jan Gehl** (2010), cada um por um caminho.
+> As demais são posições assumidas por este projeto, e aparecem como argumento, não como fato técnico.
+
 > **O objetivo não é transformar todo terreno em empreendimento. É transformar informação dispersa em uma decisão mais consciente sobre o que aquele terreno pode, deve ou não deve se tornar.**
+
+---
+
+# Referências e atribuição
+
+## O que este projeto construiu
+
+Declarado para que o leitor saiba o que é original e o que é emprestado:
+
+- o **Protocolo C / I / P**, com status e origem em campos separados, as cinco regras de acoplamento e os três campos obrigatórios do P;
+- a **espinha de oito dimensões** nesta ordem, e a definição de que a 2, a 4 e a 5 são críticas;
+- o **modo gleba** como condição do imóvel, e não como escala;
+- os **estados de saída** e a regra de que o nível de confiança se define por critério, não por sensação;
+- o recorte das cinco escalas e a pergunta de controle de cada uma.
+
+O nome do método, **Do Lote à Cidade**, é expressão corrente do urbanismo e não é reivindicado como criação deste projeto.
+
+## Obras citadas
+
+GEHL, Jan. **Cidades para pessoas**. Tradução de Anita Di Marco. São Paulo: Perspectiva, 2013. Original: *Cities for People*, 2010.
+
+JACOBS, Jane. **Morte e vida de grandes cidades**. São Paulo: WMF Martins Fontes, 2000. Original: *The Death and Life of Great American Cities*, 1961.
+
+LYNCH, Kevin. **A imagem da cidade**. São Paulo: Martins Fontes, 1997. Original: *The Image of the City*, 1960.
+
+PANERAI, Philippe. **Análise urbana**. Tradução de Francisco Leitão. Brasília: Editora UnB, 2006.
+
+VILLAÇA, Flávio. **Espaço intra-urbano no Brasil**. São Paulo: Studio Nobel / FAPESP / Lincoln Institute of Land Policy, 1998.
+
+## Legislação federal citada
+
+Toda referência abaixo é ao texto federal. **A regra que decide o caso concreto é quase sempre a estadual ou a municipal**, e ela precisa ser localizada, datada e conferida a cada leitura.
+
+| Norma | O que trata | Onde é usada |
+| --- | --- | --- |
+| Lei 6.015/1973 | registros públicos, matrícula, continuidade registral | dimensão 2 |
+| Lei 6.766/1979 | parcelamento do solo urbano | dimensão 4 e modo gleba |
+| Lei 6.938/1981 | Política Nacional do Meio Ambiente, licenciamento | dimensão 5 |
+| Resolução CONAMA 237/1997 | competência e etapas do licenciamento | dimensão 5 |
+| Lei 9.985/2000 | SNUC, unidades de conservação e zona de amortecimento | dimensão 5 |
+| Lei 10.257/2001 | Estatuto da Cidade, Plano Diretor e instrumentos | seção 2 e dimensão 4 |
+| Lei 11.445/2007 | diretrizes nacionais de saneamento básico | dimensão 6 |
+| Lei 12.651/2012 | Código Florestal, APP e reserva legal | dimensão 5 |
+| Lei 13.465/2017 | regularização fundiária urbana | dimensão 2 |
+| Lei 14.026/2020 | novo marco do saneamento | dimensão 6 |
+
+**Vigência.** As referências acima foram conferidas em julho de 2026. Legislação muda, e a data de consulta é parte do dado, não um detalhe.
+
+## Uma nota sobre esta seção
+
+Um guia que pede rastreabilidade ao leitor precisa praticá-la. A ausência de atribuição em material técnico não é neutra: ela transforma leitura em formulação própria, e é justamente o que o Protocolo C / I / P existe para evitar, aplicado às ideias em vez dos dados.
+
+Se você identificar uma ideia usada aqui sem o crédito devido, isso é um erro e será corrigido. Abra uma issue.
 
 ---
 
