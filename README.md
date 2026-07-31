@@ -106,3 +106,16 @@ Este repositório não promove empresa, produto, terreno ou negócio; não utili
 ## Licença
 
 Conteúdo sob CC BY-NC 4.0. Ver [LICENCA.md](LICENCA.md). Contribuições em [CONTRIBUTING.md](CONTRIBUTING.md). Histórico em [CHANGELOG.md](CHANGELOG.md).
+
+---
+
+## A trilha Contexto Primeiro
+
+| Repositório | O que entrega |
+| --- | --- |
+| **primeira-leitura-do-terreno** · você está aqui | o guia gratuito, a ficha de uma página, o checklist de triagem, as fontes públicas e um exemplo aplicado do início ao fim. É por aqui que se começa |
+| [**do-lote-a-cidade**](https://github.com/thaynarapeixoto/do-lote-a-cidade) | o método completo, instalável como plugin do Claude Code, com o calculador de outorga onerosa |
+| [**dados-abertos-goiania**](https://github.com/thaynarapeixoto/dados-abertos-goiania) | catálogo das bases públicas de Goiânia, com origem documentada e a lista dos números que não resistem à checagem |
+| [**goiania-sob-analise**](https://github.com/thaynarapeixoto/goiania-sob-analise) | bibliografia aberta da cidade, com autoria nomeada e a correção do que circula com crédito errado |
+
+Visão geral do projeto e do método: [github.com/thaynarapeixoto](https://github.com/thaynarapeixoto)
