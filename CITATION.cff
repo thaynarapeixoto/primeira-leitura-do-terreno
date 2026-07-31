@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Primeira Leitura do Terreno"
+message: "Se usar este material, cite conforme abaixo."
+type: dataset
+authors:
+  - family-names: "Peixoto Guimarães"
+    given-names: "Thaynara"
+    affiliation: "Contexto Primeiro"
+abstract: >-
+  Protocolo aberto para a leitura preliminar de terrenos, anterior ao projeto.
+  Organiza a investigação em oito dimensões, distingue evidência de inferência
+  e de pendência por meio do Protocolo C/I/P, e conclui em estados de saída com
+  nível de confiança definido por regra. Material educacional, não substitui
+  legislação vigente, levantamentos, consultas oficiais nem responsabilidade
+  técnica.
+keywords:
+  - análise de terrenos
+  - inteligência territorial
+  - urbanismo
+  - viabilidade preliminar
+  - protocolo de evidências
+license: CC-BY-NC-4.0
+version: "0.4"
+date-released: "2026-07-30"
