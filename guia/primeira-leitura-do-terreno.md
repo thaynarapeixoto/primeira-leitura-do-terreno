@@ -3,7 +3,7 @@
 **Um protocolo do lote à cidade para organizar informações, reconhecer sinais de alerta e definir o que precisa ser validado antes do projeto**
 
 Projeto **Contexto Primeiro** · Thaynara Peixoto Guimarães
-Versão 0.4 · julho de 2026 · CC BY-NC 4.0
+Versão 0.5 · julho de 2026 · CC BY-NC 4.0
 
 ---
 
@@ -23,7 +23,9 @@ Versão 0.4 · julho de 2026 · CC BY-NC 4.0
 10. Checklist final
 11. O que este método defende
 
-**Sobre a autora · Nota de uso**
+**Referências e atribuição · Sobre a autora · Declaração de interesse · Nota de uso**
+
+As oito dimensões da seção 5 são percorridas em **dez etapas fixas**, sempre na mesma ordem. O padrão está descrito na abertura da seção.
 
 ---
 
@@ -285,69 +287,116 @@ Esta é a espinha do método. Toda outra estrutura deste guia, da ficha ao check
 | **7** | Território e escalas | Como o terreno se conecta ao que está em volta? |
 | **8** | Mercado, riscos e encaminhamento | Para quem faz sentido, o que ameaça, qual o próximo passo? |
 
-**Dimensões críticas: 2, 4 e 5.** Sem nenhum C nelas, a leitura não sustenta nenhum estado de saída além de *aprofundar antes de decidir* ou *suspender a análise*. É regra, não julgamento.
+**Dimensões críticas: 2, 4 e 5.** Sem nenhum C nelas, a leitura não sustenta nenhum estado de saída além de *aprofundar antes de decidir* ou *suspender a análise*. É regra, não julgamento, e não é flexibilizada por pressão de prazo.
+
+Se alguém insistir em uma conclusão mais favorável sem que a evidência mude, registre o pedido, mantenha o estado e diga qual documento específico mudaria o resultado.
 
 **Duas separações que parecem custosas e não são.** Físico e ambiental ficam em dimensões distintas, a 3 e a 5, porque o profissional que valida é diferente e a cadeia de licenciamento ambiental é autônoma. Juntar as duas esconde de quem é a responsabilidade. Acessos e mobilidade ficam dentro da dimensão 6, como bloco explícito, e não como nona dimensão, porque o interlocutor de rede e o de sistema viário são ambos externos ao terreno.
 
 ---
 
+## O padrão das dez etapas
+
+Toda dimensão é percorrida na mesma ordem. A repetição não é formalidade: é o que torna o método consultável no meio de um prazo apertado, e é o que permite comparar duas leituras feitas em meses diferentes.
+
+| | Etapa | O que responde |
+| --- | --- | --- |
+| 1 | O que investigar | o recorte |
+| 2 | Por que interfere na decisão | por que vale o tempo |
+| 3 | Documentos e informações | o que pedir |
+| 4 | Fontes | onde procurar |
+| 5 | Perguntas de investigação | o que perguntar, com estas palavras |
+| 6 | Como a IA pode apoiar | e onde ela para |
+| 7 | Validação obrigatória | quem assina |
+| 8 | Sinais de alerta | o que faz parar |
+| 9 | Como registrar | o que fica escrito |
+| 10 | Resultado esperado | quando a etapa acabou |
+
+**Dimensão que não consegue preencher as dez etapas está mal recortada.** A etapa faltante é diagnóstico, não licença para pular.
+
+---
+
 ## Dimensão 1 · Enquadramento da decisão
 
-**Pergunta central:** o que estamos tentando decidir?
+> *O que estamos tentando decidir?*
 
-**O que investigar**
+**1. O que investigar.** Qual decisão está sobre a mesa, quem decide, qual o prazo, qual o custo de errar, qual hipótese de produto ou uso está em teste, e qual o orçamento disponível para investigar.
 
-- objetivo real do solicitante;
-- hipótese de uso ou produto;
-- prazo;
-- orçamento disponível para aprofundamentos;
-- critérios impeditivos e desejáveis;
-- pessoas que decidem;
-- limites da primeira leitura.
+**2. Por que interfere na decisão.** A mesma área produz leituras diferentes conforme a decisão. Comprar, permutar, projetar, priorizar entre cinco terrenos e responder a um cliente são perguntas distintas, e a profundidade proporcional a cada uma também. Sem esta dimensão, a análise acumula dado sem produzir clareza.
 
-**Sinais de alerta**
+**3. Documentos e informações.** Nada documental. O que se coleta aqui é conversa: a hipótese, o prazo, o critério de decisão e o limite do escopo, tudo por escrito.
 
-- o solicitante pede uma conclusão sem fornecer documentos;
+**4. Fontes.** Quem pediu a análise, e quem vai assinar a decisão. Quando são pessoas diferentes, isso já é um achado.
+
+**5. Perguntas de investigação.**
+
+- Que decisão esta análise precisa apoiar, e quando ela precisa ser tomada?
+- Qual uso ou produto está em teste neste momento?
+- O que seria impeditivo? O que seria negociável?
+- Quanto se pode gastar para investigar antes de decidir?
+- Quem assina a decisão, e quem assume as validações técnicas?
+
+**6. Como a IA pode apoiar.** Organizar as respostas em um enquadramento escrito e apontar o que ficou vago. Ela não define a decisão nem a hipótese por você.
+
+**7. Validação obrigatória.** A hipótese em teste precisa estar declarada por escrito. Uma leitura sem hipótese declarada não consegue concluir *reformular a hipótese*, que é um dos estados de saída.
+
+**8. Sinais de alerta.**
+
+- pedem conclusão sem fornecer documento;
 - a hipótese de produto muda durante a análise;
+- o prazo é incompatível com as consultas obrigatórias;
 - não há clareza sobre quem assume as validações;
-- o prazo não permite consultas essenciais;
-- "viabilidade" é usada sem definição de escopo.
+- "viabilidade" é usada sem definição de escopo;
+- a decisão já foi tomada e a análise está sendo pedida para justificá-la.
 
-**Como registrar**
+O último é o mais comum e o mais caro. Ele não impede a leitura, mas muda o que se deve escrever no fim.
 
-Escreva uma frase:
+**9. Como registrar.** Uma frase:
 
 > Esta primeira leitura apoia a decisão de _____, considerando inicialmente _____, até a data de _____. Não inclui _____.
+
+**10. Resultado esperado.** Uma frase que declara a decisão, o decisor, o prazo e a hipótese. Se ela não couber em uma frase, o escopo ainda não está fechado.
 
 ---
 
 ## Dimensão 2 · Identidade e documentos · **crítica**
 
-**Pergunta central:** que área é esta, e os documentos concordam entre si?
+> *Que área é esta, e os documentos concordam entre si?*
 
-**O que investigar**
+**1. O que investigar.** Que área é esta juridicamente, e se os documentos concordam entre si. Endereço, coordenadas, perímetro, titularidade, ônus e histórico.
 
-- endereço, coordenadas e perímetro;
-- matrícula e titularidade;
-- área registral, cadastral e medida;
-- confrontações;
-- inscrição municipal ou cadastro rural;
-- certidões disponíveis;
-- plantas, memoriais e levantamentos;
-- processos, consultas ou licenças anteriores.
+**2. Por que interfere na decisão.** Área de matrícula, área de IPTU, área de anúncio e área medida em campo divergem com frequência. A divergência não é detalhe cartorial: ela altera potencial construtivo, preço por metro quadrado e o próprio objeto do negócio.
 
-**Sinais de alerta**
+**3. Documentos e informações.** Matrícula atualizada, do Cartório de Registro de Imóveis competente. Certidão de ônus reais. Certidão de ações reipersecutórias. Cadastro municipal e IPTU. Planta aprovada, quando existir. ART ou RRT de levantamento topográfico. Cadeia dominial, quando houver dúvida sobre a origem.
 
-- áreas diferentes entre matrícula, cadastro e levantamento;
-- perímetro indefinido ou coordenadas inconsistentes;
-- acesso utilizado que não aparece nos documentos;
-- documentos desatualizados;
-- existência de ônus, servidões ou processos não esclarecidos;
-- terreno anunciado como uma unidade, mas formado por matrículas distintas.
+**4. Fontes.** Cartório de registro de imóveis, prefeitura, e quem está vendendo. As três podem discordar, e a matrícula prevalece.
 
-**Próxima validação**
+**5. Perguntas de investigação.**
 
-Pode exigir cartório, prefeitura, advogado imobiliário, topógrafo ou profissional habilitado, conforme a divergência encontrada.
+- A matrícula é atualizada? Emitida há quanto tempo?
+- As averbações foram lidas, todas, até o fim?
+- A área da matrícula bate com a do cadastro municipal e com a medida?
+- O imóvel tem matrícula própria, ou é fração ideal, condomínio ou área remanescente?
+- Existe ônus, gravame, usufruto, penhora, indisponibilidade ou inventário?
+- O acesso que está sendo usado aparece nos documentos?
+
+**6. Como a IA pode apoiar.** Transformar a matrícula fornecida em tabela, listar as averbações e apontar divergência entre os números dos documentos. Ela não interpreta cadeia dominial e não conclui sobre domínio.
+
+**7. Validação obrigatória.** Matrícula atualizada, com emissão recente, lida integralmente, inclusive averbações. Advogado ou especialista registral para qualquer ônus, gravame, usufruto, penhora, indisponibilidade, inventário ou área remanescente.
+
+**8. Sinais de alerta.**
+
+- matrícula antiga ou não apresentada;
+- divergência entre as áreas;
+- imóvel sem matrícula própria, em condomínio ou em parte ideal;
+- georreferenciamento ausente onde é exigido;
+- cadeia dominial interrompida;
+- terreno anunciado como uma unidade, mas formado por matrículas distintas;
+- "documentação em regularização".
+
+**9. Como registrar.** Número da matrícula, cartório, data de emissão, e a averbação específica que sustenta cada afirmação. Sem isso, o dado não é C.
+
+**10. Resultado esperado.** A área juridicamente definida, e a lista das divergências encontradas.
 
 > **De onde vem.** A matrícula, o princípio da continuidade registral e a publicidade do registro estão na **Lei de Registros Públicos**, Lei 6.015/1973. Regularização fundiária urbana e legitimação de posse estão na **Lei 13.465/2017**. Este guia não interpreta nenhuma das duas: ele indica onde a pergunta precisa ser feita e por quem.
 
@@ -355,71 +404,87 @@ Pode exigir cartório, prefeitura, advogado imobiliário, topógrafo ou profissi
 
 ## Dimensão 3 · Condições físicas
 
-**Pergunta central:** o que existe no terreno?
+> *O que existe no terreno?*
 
-**O que investigar**
+**1. O que investigar.** Topografia, formato, testada, orientação solar, drenagem natural, solo e subsolo, vegetação existente, edificações, benfeitorias, ocupações, cercas, servidões visíveis e passivos aparentes.
 
-- dimensões, forma e testadas;
-- topografia e declividade;
-- orientação solar e ventos predominantes, quando relevantes;
-- acessos físicos existentes;
-- edificações, ocupações e interferências;
-- vegetação;
-- drenagem aparente e marcas de alagamento;
-- corpos d'água e áreas úmidas;
-- sinais aparentes do solo;
-- linhas, dutos, redes ou estruturas que cruzam a área.
+**2. Por que interfere na decisão.** Condição física determina custo de terraplenagem, solução de fundação e implantação possível. Em terreno acidentado, ela é a diferença entre o potencial construtivo legal e o construível real.
 
-**Sinais de alerta**
+**3. Documentos e informações.** Levantamento topográfico planialtimétrico com responsável técnico. Sondagem, quando houver qualquer afirmação sobre solo. Fotografias datadas da visita.
 
-- declividade relevante sem levantamento;
-- aterros, cortes ou erosões aparentes;
-- água acumulada, drenagem insuficiente ou histórico relatado de alagamento;
-- vegetação ou curso d'água sem delimitação;
-- ocupações, cercas e divisas incompatíveis com os documentos.
+**4. Fontes.** Levantamento, imagem de satélite e ortofoto, modelo digital de elevação, e a visita ao terreno. As três primeiras são triagem; a última é a única que vê muro, cerca, ocupação e água parada.
 
-**Limite**
+**5. Perguntas de investigação.**
 
-Imagem de satélite, fotografia e visita não substituem levantamento topográfico, sondagem ou diagnóstico ambiental. Observação não instrumentada nasce **I**, nunca C. O que a imagem responde é forma, ocupação aparente e relação com o entorno. O que ela nunca responde é cota, solo e limite legal.
+- Qual é a declividade, e ela foi medida ou estimada?
+- Há indício de aterro, bota-fora, voçoroca ou erosão?
+- Há nascente, mina, curso d'água ou área úmida?
+- O perímetro cercado coincide com o da matrícula?
+- Há ocupação por terceiros, posse ou moradia?
+- Há histórico de uso anterior que levante suspeita de contaminação?
+
+**6. Como a IA pode apoiar.** Organizar o que foi observado, comparar versões da informação e listar o que falta. **Leitura de imagem de satélite feita por IA é sempre status I, origem `IA`.** Ela não mede declividade, não identifica curso d'água e não delimita vegetação.
+
+**7. Validação obrigatória.** Levantamento topográfico com responsável técnico. Sondagem para qualquer afirmação sobre solo, subsolo, nível de água ou capacidade de suporte. Visita ao terreno.
+
+**8. Sinais de alerta.**
+
+- declividade acentuada sem levantamento;
+- indício de aterro, bota-fora, voçoroca ou erosão;
+- nascente, mina, curso d'água ou área úmida;
+- ocupação por terceiros, posse ou moradia;
+- resíduo, entulho, tanque, posto de combustível vizinho ou histórico industrial, que levantam suspeita de contaminação;
+- diferença entre o perímetro cercado e o da matrícula.
+
+**9. Como registrar.** Separe o observado do medido. Observação não instrumentada nasce **I**, origem `própria`, e só vira C com levantamento.
+
+**10. Resultado esperado.** O que existe no terreno, separado do que se supõe que exista.
 
 ---
 
 ## Dimensão 4 · Regras urbanísticas · **crítica**
 
-**Pergunta central:** o que pode ser feito aqui?
+> *O que pode ser feito aqui?*
 
-**O que investigar**
+**1. O que investigar.** O que pode ser feito ali, segundo a legislação vigente do município: situação urbana ou rural, zoneamento, usos, coeficientes, taxas, recuos, gabaritos, densidades, lote e testada mínimos, exigências de vagas e acessibilidade, diretrizes viárias e instrumentos incidentes.
 
-- situação urbana ou rural;
-- Plano Diretor vigente;
-- uso e ocupação do solo;
-- parcelamento do solo;
-- zoneamento;
-- usos permitidos, permissíveis ou condicionados;
-- coeficientes, taxas, recuos, gabaritos e densidades;
-- lote e testada mínimos;
-- exigências de vagas, acessibilidade e impacto;
-- diretrizes viárias;
-- instrumentos urbanísticos incidentes;
-- procedimento de consulta oficial.
+**2. Por que interfere na decisão.** É a dimensão que define o produto possível. Também é a que mais circula em versão secundária errada.
 
-**Modo gleba:** acrescentar parcelamento do solo e o rito de aprovação aplicável.
+**3. Documentos e informações.** Plano Diretor do município e suas leis complementares posteriores. Lei de uso e ocupação do solo. Lei de parcelamento. Código de obras. Código de posturas. Legislação estadual aplicável. Certidão de uso do solo ou consulta prévia emitida pela prefeitura.
 
-**Sinais de alerta**
+**4. Fontes.** Portal oficial da prefeitura, secretaria de planejamento ou urbanismo, diário oficial do município, sistema oficial de mapas, e o atendimento presencial ou protocolado. Nunca compilador privado como fonte final.
 
+**5. Perguntas de investigação.**
+
+- Qual a lei vigente hoje, e qual o número e a data da última alteração?
+- O enquadramento foi verificado pela poligonal do imóvel, ou apenas pelo endereço?
+- Os anexos e mapas da lei foram abertos, ou só o texto?
+- O uso pretendido é permitido, permissível ou condicionado?
+- Existe instrumento oneroso incidente, e ele foi considerado no preço?
+- O imóvel está em operação urbana, ZEIS, área de especial interesse ou tombamento?
+
+**6. Como a IA pode apoiar.** Transformar em tabela os trechos da lei que você forneceu, comparar versões de um mesmo texto e preparar as perguntas da consulta oficial. **Ela não afirma vigência, não escolhe entre regras conflitantes e não calcula potencial quando falta dado.** Resposta de IA apresentada como interpretação definitiva é sinal de alerta, não atalho.
+
+**7. Validação obrigatória.** Consulta prévia ou certidão de uso do solo emitida pelo órgão municipal. **Nenhum parâmetro urbanístico entra como C sem a lei, o artigo e o anexo que o sustentam.** Vigência verificada no diário oficial do município.
+
+**8. Sinais de alerta.**
+
+- parâmetro obtido de portal de corretora, compilador privado ou material de marketing;
+- termo que não existe na lei local, o que indica tradução de fonte secundária;
 - norma localizada em página não oficial;
 - lei sem anexos, mapas ou alterações posteriores;
 - mapa sem escala ou sem vínculo com o texto legal;
-- parâmetro citado sem artigo;
-- conflito entre versões;
-- enquadramento baseado apenas no endereço, sem verificar a poligonal;
-- resposta de IA apresentada como interpretação definitiva.
+- zona em revisão, ou plano diretor em processo de alteração;
+- potencial construtivo que depende de instrumento oneroso não considerado no preço;
+- enquadramento baseado apenas no endereço, sem verificar a poligonal.
 
-**Como registrar**
+**9. Como registrar.** Lei, número, ano, artigo, inciso e anexo, para cada parâmetro. Mais a data da consulta ao texto. Um parâmetro sem essa linha é indício, não regra.
 
-Para cada parâmetro, anote: norma, artigo ou anexo, data, vigência a confirmar, interpretação preliminar e consulta necessária.
+**10. Resultado esperado.** O que pode ser feito, com a lei ao lado de cada afirmação, e o que ainda precisa ser confirmado na prefeitura.
 
-**Nota de realidade.** Em boa parte dos municípios brasileiros, a fonte oficial não está onde deveria: falta anexo, o mapa não conversa com o texto, a versão publicada não é a vigente. Isso não autoriza usar fonte secundária como C. Autoriza registrar P com o caminho de consulta formal ao lado.
+**Modo gleba.** Acrescentar o parcelamento do solo e o rito de aprovação aplicável, na Lei 6.766/1979 e na legislação municipal e estadual correspondente.
+
+**Nota sobre potencial construtivo onerado.** Em municípios que adotam outorga onerosa do direito de construir, o coeficiente básico não acompanha o terreno gratuitamente acima de um limite, e o potencial adicional é comprado do município. Isso desloca custo para dentro da viabilidade, e não para a fase de aprovação.
 
 > **De onde vem.** O Plano Diretor, os instrumentos urbanísticos e as diretrizes da política urbana estão no **Estatuto da Cidade**, Lei 10.257/2001, que regulamenta os arts. 182 e 183 da Constituição. O parcelamento do solo urbano, loteamento e desmembramento, está na **Lei 6.766/1979**.
 > **A regra que manda é sempre a municipal.** As leis federais fixam o quadro; zoneamento, coeficiente, recuo, gabarito e uso são definidos por lei do município, e é ela que precisa ser localizada, datada e conferida.
@@ -428,30 +493,43 @@ Para cada parâmetro, anote: norma, artigo ou anexo, data, vigência a confirmar
 
 ## Dimensão 5 · Ambiente · **crítica**
 
-**Pergunta central:** o que protege, restringe ou condiciona?
+> *O que protege, restringe ou condiciona?*
 
-**O que investigar**
+**1. O que investigar.** O que protege, restringe ou condiciona o uso da área: corpos hídricos, nascentes, áreas úmidas, áreas de preservação permanente, reserva legal, unidades de conservação e zonas de amortecimento, vegetação e necessidade provável de supressão, cadastros ambientais, indícios de contaminação e patrimônio incidente.
 
-- corpos hídricos, nascentes e áreas úmidas;
-- áreas de preservação permanente e reserva legal;
-- unidades de conservação e zonas de amortecimento;
-- vegetação, necessidade provável de supressão e passivos aparentes;
-- cadastros ambientais aplicáveis;
-- necessidade provável de licenciamento e o rito correspondente;
-- indícios de área contaminada ou passivo declarado;
-- patrimônio natural ou cultural incidente.
+**2. Por que interfere na decisão.** Restrição ambiental não reduz o projeto, ela redefine o objeto. E é a cadeia com o prazo mais longo e a menor previsibilidade de todas.
 
-**Sinais de alerta**
+**3. Documentos e informações.** Manifestação do órgão ambiental competente. Cadastro Ambiental Rural, quando aplicável. Plano de manejo da unidade de conservação, quando incidente. Laudo de caracterização de vegetação, por profissional habilitado.
 
+**4. Fontes.** Órgão ambiental municipal e estadual, mapeamento de recursos hídricos, e o Código Florestal, Lei 12.651/2012, para as áreas de preservação permanente e a reserva legal.
+
+**5. Perguntas de investigação.**
+
+- Existe curso d'água, nascente, lagoa, várzea ou área alagável no terreno ou na divisa?
+- Qual a faixa de preservação aplicável, e ela foi lida no dispositivo legal?
+- O terreno está em unidade de conservação ou em zona de amortecimento?
+- Há vegetação nativa em estágio médio ou avançado?
+- Incide bioma com legislação específica?
+- Qual o rito de licenciamento provável, e quanto tempo ele leva neste órgão?
+
+**6. Como a IA pode apoiar.** Listar quais consultas fazer e a qual órgão. **A IA não declara existência nem inexistência de restrição ambiental.** Essa afirmação, nos dois sentidos, é sempre **P** até haver manifestação do órgão.
+
+**7. Validação obrigatória.** Manifestação do órgão ambiental competente. Profissional habilitado para delimitar APP, caracterizar vegetação e identificar espécie protegida. **As faixas de APP variam conforme o tipo e a dimensão do corpo d'água, e estão definidas no art. 4º da Lei 12.651/2012: consulte o dispositivo, não use faixa de memória.**
+
+**8. Sinais de alerta.**
+
+- curso d'água, nascente, lagoa, várzea ou área alagável no terreno ou na divisa;
+- vegetação nativa em estágio médio ou avançado;
+- incidência de bioma com legislação específica, como a Mata Atlântica;
+- unidade de conservação ou zona de amortecimento;
+- cavidade natural, sítio arqueológico ou bem tombado;
+- passivo de contaminação;
 - curso d'água não representado em uma das bases;
-- área próxima a proteção ambiental sem consulta;
-- passivo ambiental ou contaminação tratados apenas como boato;
-- restrição presumida inexistente porque não apareceu no mapa consultado;
 - licenciamento tratado como etapa posterior, e não como condicionante de prazo.
 
-**Limite**
+**9. Como registrar.** Órgão consultado, número do protocolo, data, e o dispositivo legal citado na resposta. Ausência de resposta é **P**, nunca ausência de restrição.
 
-Mapas públicos funcionam como triagem. A incidência e a solução devem ser confirmadas na escala e pelo órgão ou especialista adequado. Esta dimensão tem cadeia própria de validação, que corre em paralelo e não depende do andamento urbanístico.
+**10. Resultado esperado.** As restrições identificadas, as consultas em aberto, e o prazo estimado de cada cadeia de licenciamento.
 
 > **De onde vem.** Área de preservação permanente e reserva legal estão no **Código Florestal**, Lei 12.651/2012. As unidades de conservação e suas zonas de amortecimento estão no **SNUC**, Lei 9.985/2000. O licenciamento ambiental tem base na **Política Nacional do Meio Ambiente**, Lei 6.938/1981, e critérios de competência e etapas na **Resolução CONAMA 237/1997**.
 > **Legislação estadual e municipal pode ser mais restritiva que a federal**, e é ela que costuma decidir o caso concreto.
@@ -460,49 +538,50 @@ Mapas públicos funcionam como triagem. A incidência e a solução devem ser co
 
 ## Dimensão 6 · Infraestrutura e acessibilidade
 
-**Pergunta central:** o terreno é atendido e alcançável?
+> *O terreno é atendido e alcançável?*
 
-### Bloco 1 · Redes
+**1. O que investigar.** Dois blocos.
 
-**O que investigar**
+*Infraestrutura:* água, esgoto, energia, drenagem, iluminação, resíduos e telecomunicações. Existência da rede na testada, **e capacidade de atendimento para a demanda pretendida**, que são coisas diferentes.
 
-- abastecimento de água;
-- esgotamento sanitário;
-- energia;
-- drenagem e pavimentação;
-- resíduos;
-- telecomunicações;
-- capacidade das redes e necessidade de expansão.
+*Acessos e mobilidade:* hierarquia viária da via de acesso, condição do pavimento, faixa de domínio, restrição de acesso, transporte coletivo, e o percurso real até os destinos que importam para o produto.
 
-A pergunta comum é "passa na rua?". A pergunta correta é **existe capacidade e existe viabilidade de atendimento declarada?**. Rede existente na via não é a mesma coisa que ligação autorizada para o uso pretendido.
+**2. Por que interfere na decisão.** Rede na testada não significa capacidade disponível. Viabilidade técnica de atendimento é documento emitido pela concessionária, e o custo de extensão ou reforço de rede pode inviabilizar um empreendimento que fecha em todas as outras dimensões.
 
-### Bloco 2 · Acessos e mobilidade
+**3. Documentos e informações.** Declaração ou viabilidade técnica de cada concessionária, para a demanda pretendida. Manifestação do órgão rodoviário, quando o acesso se der em faixa de domínio.
 
-**O que investigar**
+**4. Fontes.** Concessionárias de água, esgoto e energia. Órgão municipal de trânsito. Órgão rodoviário estadual ou federal, quando houver rodovia envolvida. Órgão gestor do transporte coletivo.
 
-- hierarquia e condição das vias;
-- regularidade do acesso;
-- transporte público e conexões;
-- fluxos de veículos e pedestres;
-- calçadas, arborização, sombra e segurança viária;
-- barreiras físicas;
-- carga e serviço;
-- diretrizes viárias incidentes.
+**5. Perguntas de investigação.**
 
-**Modo gleba:** acrescentar infraestrutura a implantar, conexão com a malha existente e custo de urbanização como condicionante da viabilidade, não como item de orçamento posterior.
+- A rede existe na testada, e existe capacidade para a demanda pretendida?
+- A concessionária emite viabilidade técnica para este endereço e para este porte?
+- Quem paga a extensão ou o reforço de rede, se for necessário?
+- O acesso é por via oficial, ou por servidão ou área de terceiro?
+- Se há rodovia, existe ponto de acesso autorizado?
+- Qual o percurso real, e não a distância no mapa, até os destinos que importam?
 
-**Sinais de alerta**
+**6. Como a IA pode apoiar.** Preparar as consultas às concessionárias com o porte e o uso corretos, e organizar as respostas recebidas. Ela não estima capacidade de rede.
 
+**7. Validação obrigatória.** Declaração ou viabilidade técnica de cada concessionária, para a demanda pretendida. Manifestação do órgão rodoviário para acesso em faixa de domínio.
+
+**8. Sinais de alerta.**
+
+- rede ausente ou distante;
 - rede existente confundida com capacidade disponível;
+- loteamento vizinho com fornecimento restrito;
 - solução de esgoto presumida;
 - infraestrutura prometida, mas sem cronograma ou documento;
-- acesso precário ou não regularizado;
-- acesso que depende de uma única via vulnerável;
+- acesso apenas por via não oficial, servidão ou área de terceiro;
+- testada em rodovia sem ponto de acesso autorizado;
+- ausência de drenagem em área de cota baixa;
 - distância curta no mapa, mas conexão ruim na prática.
 
-**Limite**
+**9. Como registrar.** Concessionária, protocolo, data, porte informado na consulta e o teor da resposta. Consulta feita com o porte errado não vale para o produto pretendido.
 
-A primeira leitura identifica dependências. Não dimensiona rede, não orça extensão e não negocia atendimento.
+**10. Resultado esperado.** O que é atendido, o que precisa ser implantado, e por conta de quem.
+
+**Modo gleba.** Acrescentar a infraestrutura a implantar, a conexão com a malha existente e o custo de urbanização como condicionante da viabilidade.
 
 > **De onde vem.** As diretrizes nacionais do saneamento básico, água, esgoto, drenagem e resíduos, estão na **Lei 11.445/2007**, alterada pelo novo marco do saneamento, **Lei 14.026/2020**. Quem confirma a viabilidade de atendimento de um imóvel é sempre a prestadora do serviço, e a resposta dela é documento.
 
@@ -510,94 +589,96 @@ A primeira leitura identifica dependências. Não dimensiona rede, não orça ex
 
 ## Dimensão 7 · Território e escalas
 
-**Pergunta central:** como o terreno se conecta ao que está em volta?
+> *Como o terreno se conecta ao que está em volta?*
 
-**O que investigar**
+**1. O que investigar.** Usos e atividades do entorno, morfologia e gabarito predominante, vazios e imóveis subutilizados, obras e licenças recentes, equipamentos públicos, comércio e serviços, barreiras físicas, vetores de crescimento da cidade, e transformações previstas em plano ou projeto público. É aqui que as cinco escalas são aplicadas de forma explícita.
 
-- usos predominantes e diversidade;
-- fachadas, muros, acessos e frentes ativas;
-- equipamentos e serviços;
-- centralidades;
-- áreas consolidadas e vazios;
-- obras públicas e empreendimentos recentes;
-- vetores de crescimento;
-- a leitura por escala, lote, rua e quadra, bairro, cidade e região.
+**2. Por que interfere na decisão.** É a dimensão que distingue uma leitura de terreno de uma consulta de parâmetros. Um lote conforme em todas as regras pode estar no lugar errado da cidade para a hipótese em teste.
 
-**Modo gleba:** acrescentar doação de áreas públicas e institucionais, e faseamento.
+**3. Documentos e informações.** Plano diretor e planos setoriais. Licenças e alvarás publicados pelo município. Registro fotográfico datado da visita, por escala.
 
-**Sinais de alerta**
+**4. Fontes.** Dados públicos censitários, publicações de licenciamento do município, planos setoriais, e a observação de campo. Nenhuma base substitui caminhar a quadra.
 
-- vizinhança incompatível com a hipótese;
+**5. Perguntas de investigação.**
+
+- O que o entorno é hoje, e o que dele é confirmável?
+- Que transformação está em curso, e qual a evidência dela além do anúncio?
+- Existe barreira que separa o terreno do que parece próximo no mapa?
+- Os equipamentos citados existem, ou estão previstos?
+- Qual a vizinhança imediata, e ela é compatível com a hipótese?
+- Por que os vazios da região continuam vazios?
+
+**6. Como a IA pode apoiar.** Estruturar a leitura por escala e listar o que observar em cada uma. **Ela não converte proximidade em causalidade e não conclui valorização.** O que o entorno é hoje pode ser verificado; para onde ele está indo é sempre **I**.
+
+**7. Validação obrigatória.** Observação de campo. Uma leitura de entorno feita inteiramente de escritório permanece **I** em todos os itens.
+
+**8. Sinais de alerta.**
+
+- transformação em curso não capturada pelo cadastro;
+- barreira que separa o terreno do que parece próximo no mapa;
+- equipamento previsto e não executado sendo tratado como existente;
+- vizinhança com uso incompatível ou com passivo;
 - transformação urbana presumida apenas por anúncios;
 - leitura do bairro feita sem observação de campo;
-- escala regional ignorada em glebas ou projetos logísticos;
+- escala regional ignorada em gleba ou em projeto logístico;
 - vazio tratado como oportunidade sem investigar por que ele é vazio.
 
-**Como registrar**
+**9. Como registrar.** Separe sempre **dado**, **observação de campo**, **interpretação profissional** e **hipótese**. Um parágrafo que mistura os quatro é erro de método, não de escrita.
 
-Separe sempre: **dado**, **observação de campo**, **interpretação profissional** e **hipótese**. O que o entorno é hoje pode ser C. Para onde ele está indo é sempre I.
+**10. Resultado esperado.** A posição do terreno na estrutura urbana, e a leitura do movimento do entorno.
+
+**Modo gleba.** Acrescentar as diretrizes viárias e a conexão com a malha existente, a doação de áreas públicas e institucionais, e o faseamento.
 
 ---
 
 ## Dimensão 8 · Mercado, riscos e encaminhamento
 
-**Pergunta central:** para quem esta hipótese faz sentido, o que a ameaça, e qual é o próximo passo?
+> *Para quem faz sentido, o que ameaça, qual o próximo passo?*
 
-### Bloco 1 · Mercado e adequação do produto
+Esta dimensão é maior que as outras, e de propósito: ela fecha a leitura. Risco não é tema, é saída, e só se organiza depois que as sete anteriores foram percorridas.
 
-**O que investigar**
+**1. O que investigar.** Perfil de quem mora e trabalha na região, produto praticado no entorno, oferta concorrente, e a compatibilidade entre a hipótese e a demanda real. Depois, os riscos, e o encaminhamento.
 
-- produto inicialmente pretendido;
-- público provável;
-- oferta e concorrentes;
-- empreendimentos lançados e ocupados;
-- preços anunciados e suas limitações;
-- velocidade e padrão de transformação percebidos;
-- diferenciais e fragilidades do entorno;
-- incompatibilidades entre terreno, produto e público;
-- estudos econômicos ainda necessários.
+**2. Por que interfere na decisão.** Fecha a leitura ligando o que é possível ao que faz sentido. Um terreno pode permitir exatamente aquilo que ninguém ali quer comprar.
 
-A leitura de mercado aqui é cruzamento com as dimensões 4 e 7, não pesquisa isolada. A pergunta é se o que a regra permite coincide com o que aquele território recebe.
+**3. Documentos e informações.** Toda referência de mercado com instituição, metodologia, cobertura territorial e data.
 
-**Sinais de alerta**
+**4. Fontes.** Entidades setoriais, dados censitários, e o levantamento próprio do entorno. **Fonte setorial é fonte legítima e não é fonte neutra: nomeie a entidade, nunca escreva "dados do mercado".**
 
-- preço anunciado tratado como preço realizado;
-- amostra pequena ou não comparável;
+**5. Perguntas de investigação.**
+
+- Que produto está sendo efetivamente absorvido nesta região?
+- O dado que estou usando é municipal ou regional?
+- É preço de anúncio ou preço de transação?
+- A amostra é comparável em área, padrão e data?
+- O que precisaria ser verdade para esta hipótese não funcionar?
+
+**6. Como a IA pode apoiar.** Organizar os achados por dimensão e listar as pendências com os três campos. **Ela não estima demanda, preço, absorção nem retorno.**
+
+**7. Validação obrigatória.** Todo dado de mercado citado carrega instituição, metodologia, cobertura territorial e data. **Índice de preço de anúncio e indicador de lançamento medem coisas diferentes e não se somam.**
+
+**8. Sinais de alerta.**
+
+- número de mercado sem fonte primária;
+- dado regional apresentado como municipal;
+- série recalibrada comparada com a anterior;
+- preço de anúncio tratado como preço de transação;
 - produto definido antes da leitura territorial;
-- tendência afirmada sem série temporal;
-- público-alvo baseado apenas em percepção;
+- amostra pequena ou não comparável;
 - análise de mercado usada como substituta de viabilidade financeira.
 
-**Limite**
-
-A primeira leitura pode formular e testar compatibilidades iniciais. Não garante demanda, preço, absorção ou retorno.
-
-### Bloco 2 · Riscos
-
-Risco não é tema, é saída da leitura inteira. Ele se organiza aqui porque só faz sentido depois que as sete dimensões anteriores foram percorridas.
-
-Para cada risco, registre três campos:
+**9. Como registrar os riscos.** Três colunas, uma linha por risco:
 
 | Condição encontrada | Consequência para a decisão | Validação necessária |
 | --- | --- | --- |
-| | | |
 
-> Nota de fronteira: a versão completa desta matriz, com probabilidade, impacto, responsável e prazo, é peça do Kit Profissional. O gratuito entrega a leitura, o Kit entrega o instrumento.
+**Não misture os quatro.** Restrição confirmada é condição já comprovada. Risco é evento futuro incerto. Pendência é informação ou ação ainda necessária. Potencial é condição favorável que merece aprofundamento.
 
-**Não misture**
+> Nota de fronteira: a versão priorizada desta matriz, com probabilidade, impacto, responsável e prazo, é peça do Kit Profissional. O gratuito entrega a leitura; o Kit entrega o instrumento.
 
-- **Restrição confirmada:** condição já comprovada.
-- **Risco:** evento futuro incerto que pode afetar o objetivo.
-- **Pendência:** informação ou ação ainda necessária.
-- **Potencial:** condição favorável que merece aprofundamento.
+**10. Resultado esperado.** A leitura fechada em um estado de saída, com o nível de confiança declarado pela regra, a lista de riscos e a lista de pendências com responsável.
 
-### Bloco 3 · Encaminhamento
-
-Escolha um dos estados de saída da seção 1 e justifique com as evidências mais importantes. O nível de confiança sai da regra da seção 4, não da sensação.
-
-Ordene as pendências por impacto na decisão, não por facilidade de resolver. Reconhecer que um terreno precisa ser reformulado ou suspenso também é produzir valor.
-
----
+Ordene as pendências por impacto na decisão, não por facilidade de resolver. **Reconhecer que um terreno precisa ser reformulado, aprofundado ou suspenso também é produzir valor.**
 
 # 6. Como usar IA sem transformar resposta em fonte
 

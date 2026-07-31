@@ -2,7 +2,31 @@
 
 Todas as mudanças relevantes deste repositório.
 
-## [0.4] · 30/07/2026 · não publicado
+## [0.5] · 30/07/2026
+
+### As oito dimensões passam a seguir as dez etapas
+
+Até a 0.4, cada dimensão tinha três blocos, e o terceiro variava entre "como registrar", "próxima validação" e "limite". O protocolo editorial do projeto exige dez etapas fixas, na mesma ordem, e a repetição é o que torna o método consultável. **Sete das dez etapas faltavam.**
+
+Agora as oito dimensões trazem, todas, na mesma ordem: o que investigar · por que interfere na decisão · documentos e informações · fontes · perguntas de investigação · como a IA pode apoiar e onde ela para · validação obrigatória · sinais de alerta · como registrar · resultado esperado.
+
+O que isso mudou na prática:
+
+- **documentos passam a ser nomeados.** Certidão de ônus reais, certidão de ações reipersecutórias, ART ou RRT de levantamento, cadeia dominial, viabilidade técnica de concessionária, manifestação do órgão ambiental, certidão de uso do solo;
+- **cada dimensão ganhou perguntas de investigação**, redigidas para serem feitas com essas palavras;
+- **a IA passa a ter limite declarado dentro de cada dimensão**, e não apenas em um capítulo geral. Leitura de imagem de satélite por IA é sempre I de origem `IA`; a IA não declara existência nem inexistência de restrição ambiental;
+- **a validação obrigatória diz quem assina**, dimensão por dimensão;
+- nota sobre potencial construtivo onerado, e a advertência de que as faixas de APP estão no art. 4º da Lei 12.651/2012 e devem ser lidas no dispositivo, nunca de memória;
+- o modo gleba passa a aparecer dentro das dimensões 4, 6 e 7, no mesmo lugar em cada leitura.
+
+### Atribuição
+
+- **Blocos "De onde vem" no ponto de uso**, nomeando Flávio Villaça, Jane Jacobs, Jan Gehl, Kevin Lynch e Philippe Panerai, e a legislação federal que incide em cada dimensão.
+- **Nova seção "Referências e atribuição"**, com as obras completas, a tabela de dez normas federais por dimensão, e a declaração explícita do que é construção deste projeto.
+- **Declaração de interesse** no README e no guia.
+- `LICENSE` com o código legal da CC BY-NC 4.0.
+
+## [0.4] · 30/07/2026
 
 Primeira versão sob o projeto **Contexto Primeiro**. Reescrita a partir do material anterior, que circulava como *Do Lote à Cidade, Starter Kit*.
 
